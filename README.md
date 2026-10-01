@@ -215,6 +215,93 @@ Passive or immaterial investment, without meaningful control or influence, SHOUL
 
 **The integrity assessment follows material influence through the chain; it does not impose guilt by mere association.**
 
+### 8.6 Financial and Key Relationship Transparency
+
+Participants MUST disclose material financial, ownership, governance, employment, advisory, familial, contractual, investment, partnership, and other relationships that could reasonably affect, or create the appearance of affecting, the independence, integrity, governance, verification, certification, or commercial use of proof.
+
+Required transparency includes, where material:
+
+- Beneficial ownership and controlling interests;
+- Investors, financiers, lenders, and significant funding sources;
+- Board members, officers, advisers, and persons exercising material influence;
+- Financial relationships between standards bodies, vendors, verifiers, certification authorities, registries, and benchmark operators;
+- Related-party transactions;
+- Material commercial partnerships and contractual dependencies;
+- Overlapping governance or decision-making roles;
+- Compensation, sponsorship, grants, or other financial incentives connected to standards or certification outcomes; and
+- Key personal or professional relationships that create an actual or reasonably perceived conflict of interest.
+
+Disclosure MUST identify the nature of the relationship and its relevance. **Disclosure alone does not cure a conflict.** Material conflicts MUST be independently assessed, managed, mitigated, or subject to recusal where appropriate.
+
+A participant MUST NOT conceal material influence through intermediaries, affiliates, nominees, portfolio companies, consulting arrangements, informal agreements, or other indirect relationships.
+
+Legitimate confidentiality, privacy, and security considerations MAY limit public disclosure. In those circumstances, material relationships MUST still be disclosed to an appropriately authorized independent assessor. Public disclosure SHOULD be required when the relationship materially affects a public standard, certification, governance decision, or proof claim.
+
+### 8.7 Attribution, Plagiarism, and Intellectual Integrity
+
+Participants MUST accurately identify the origin of material ideas, language, research, specifications, architectures, methodologies, taxonomies, datasets, software, benchmarks, diagrams, and other contributions incorporated into Proof Economy work.
+
+Participants MUST NOT knowingly present another person's or organization's work as their own, obscure material prior contributions, remove attribution, fabricate authorship, or create a misleading impression regarding the origin or development of work.
+
+**Plagiarism includes more than verbatim copying.** It may include unattributed or deceptively attributed appropriation of distinctive expression, structure, analysis, research, technical documentation, diagrams, taxonomies, methodologies, or other material contributions where attribution is reasonably required.
+
+Similarity alone does not establish plagiarism. Independent development, common industry terminology, ideas, facts, standards concepts, prior art, public-domain material, and properly licensed reuse MUST be distinguished from plagiarism through an evidence-based assessment.
+
+**Standards development MUST preserve provenance.** When a specification materially incorporates, adapts, extends, responds to, or builds upon identifiable prior work, the relevant prior work and contributors MUST be appropriately cited or attributed.
+
+A standards body, working group, editor, contributor, vendor, or governing institution MUST NOT use its position, publication authority, organizational reputation, or control of a standards process to erase, minimize, or misrepresent material prior contributions.
+
+AI assistance does not eliminate attribution obligations. Participants using generative AI, automated drafting systems, research agents, or similar tools remain responsible for originality, provenance, citations, licensing, and accuracy. AI-generated or AI-assisted material MUST NOT be used to obscure material originating from another person or organization.
+
+Credible plagiarism or misattribution allegations MUST be evaluated through documented procedures using available evidence, with notice and an opportunity to respond. Substantiated violations MAY require correction of the public record, restoration of attribution, withdrawal or revision of affected material, corrective action, suspension, or loss of recognized status.
+
+**A technically valid proof ecosystem cannot be ethically trustworthy if its standards, research, or governance depend upon misrepresented authorship or concealed provenance.**
+
+### 8.8 AI Contribution and Human Intellectual Provenance
+
+Participants MUST disclose material use of generative AI, language models, autonomous agents, or other AI systems in the creation of specifications, standards, research papers, technical reports, taxonomies, evaluations, benchmarks, governance documents, and other substantive published work.
+
+AI contribution disclosure MUST distinguish between generation of expression and generation of substantive intellectual content.
+
+At minimum, material AI contribution SHOULD be characterized by role:
+
+| Contribution | Disclosure |
+|---|---|
+| Editing | Grammar, formatting, restructuring, or summarization |
+| Research assistance | Search, retrieval, literature review, or source organization |
+| Drafting | AI generated or substantially rewrote prose |
+| Analysis | AI performed substantive comparison, reasoning, classification, or interpretation |
+| Technical development | AI generated schemas, algorithms, code, formulas, architectures, or test methods |
+| Ideation | AI materially proposed concepts, terminology, hypotheses, architectures, or methodologies |
+| Human-originated contribution | A human originated the underlying concept, argument, architecture, methodology, or novel intellectual contribution |
+
+**Human authorship MUST NOT be inferred merely because a human submitted, edited, approved, or published AI-generated material.**
+
+Where a work claims original research, architecture, methodology, taxonomy, invention, or other substantive intellectual contribution, its disclosure SHOULD identify which material contributions originated through human reasoning and which materially originated through AI assistance.
+
+#### Human Intellectual Contribution
+
+A human intellectual contribution is not measured solely by the number of words typed by a person. It concerns the human origin of the concepts, questions, hypotheses, insights, architectures, methodologies, interpretations, challenges, and decisions that materially shaped the work.
+
+Human direction that introduces a novel or provocative question capable of producing materially different analysis MAY constitute a significant human intellectual contribution even where AI subsequently assists with research, analysis, drafting, or refinement.
+
+Conversely, selecting, lightly editing, or approving AI-generated material MUST NOT automatically be represented as human origination of the underlying intellectual contribution.
+
+#### AI Contribution Statement
+
+Substantive Proof Economy publications SHOULD include an AI Contribution Statement identifying, where applicable:
+
+- AI systems or tools used;
+- AI roles, such as research, drafting, analysis, code, ideation, or editing;
+- Human-originated intellectual contributions;
+- AI-originated substantive contributions;
+- Human verification performed; and
+- A percentage estimate only where the methodology used to calculate that estimate is disclosed.
+
+A numerical percentage of AI contribution MUST NOT be presented as objectively measured unless a documented and reproducible measurement method supports it.
+
+**AI disclosure MUST NOT be used as a proxy for quality, originality, validity, or authorship. The purpose of disclosure is provenance and transparency. Claims concerning originality or intellectual contribution MUST be evaluated from evidence of the contribution itself.**
+
 ## 9. Core Duties
 
 As a condition of recognized participation or certification, the applicable participant MUST formally accept the version of this Code required by the governing participation terms.
