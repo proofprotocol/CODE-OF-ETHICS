@@ -194,6 +194,27 @@ Investors, family offices, and other financial interests participating in recogn
 
 ---
 
+### 8.5 Related-Party Integrity and Material Influence
+
+Integrity risk can propagate through relationships that create material ownership, control, governance, financing, or influence. Recognized participation therefore MUST assess relevant related-party relationships rather than evaluating each participant as though it exists in isolation.
+
+A participant's eligibility MUST consider material relationships with persons or institutions that fail the Trusted Baseline or applicable requirements of this Code. Relevant relationships include, as applicable:
+
+- Beneficial ownership or controlling investment;
+- Board membership, governance rights, or appointment authority;
+- Material financing, lending, or contractual leverage;
+- Control through subsidiaries, affiliates, portfolio companies, investment vehicles, nominees, or intermediaries;
+- Authority over standards, certification, verification, registry, benchmark, or proof-related decisions; and
+- Other relationships capable of materially influencing conduct or outcomes.
+
+A related party's failure does **not** automatically establish misconduct by another person or entity merely by association. However, where the related party exercises material ownership, control, governance, financing, or influence, the affected participant MUST NOT receive or retain recognized trusted status until the relationship, resulting integrity risk, and any necessary safeguards or remediation have been independently assessed and satisfactorily resolved under documented procedures.
+
+A participant MUST NOT evade an integrity determination through subsidiaries, portfolio companies, intermediaries, nominees, affiliates, investment vehicles, representatives, or other related entities.
+
+Passive or immaterial investment, without meaningful control or influence, SHOULD NOT by itself disqualify an otherwise eligible participant. Assessments MUST be evidence-based, proportionate to the relationship and risk, and provide appropriate notice, an opportunity to respond, and challenge or appeal procedures.
+
+**The integrity assessment follows material influence through the chain; it does not impose guilt by mere association.**
+
 ## 9. Core Duties
 
 As a condition of recognized participation or certification, the applicable participant MUST formally accept the version of this Code required by the governing participation terms.
