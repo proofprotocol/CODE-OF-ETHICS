@@ -263,6 +263,12 @@ Participants MUST disclose material use of generative AI, language models, auton
 
 AI contribution disclosure MUST distinguish between generation of expression and generation of substantive intellectual content.
 
+**Use of AI does not disqualify a participant, diminish the validity of a contribution, or create a presumption that the work lacks originality or human intellectual contribution. The obligation is transparency, not exclusion.**
+
+A participant who accurately discloses material AI use satisfies the transparency purpose of this requirement. AI-assisted and human-only work are subject to the same requirements for evidence, attribution, provenance, accuracy, intellectual integrity, and accountability.
+
+The ethical concern addressed by this section is concealment or material misrepresentation of AI's role, not the use of AI itself. AI disclosure MUST NOT be used as an automatic basis for exclusion, disqualification, adverse treatment, or diminished standing.
+
 At minimum, material AI contribution SHOULD be characterized by role:
 
 | Contribution | Disclosure |
