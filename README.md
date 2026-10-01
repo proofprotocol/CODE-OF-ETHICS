@@ -95,7 +95,39 @@ When public anonymity is justified, responsible people MUST still be identifiabl
 
 ---
 
-## 6. Ethical Business Practices
+## 6. Separation of Standards and Certification
+
+Standards development and certification are distinct functions and MUST be governed so that commercial, institutional, or technical interests cannot substitute administrative approval for independently examinable proof.
+
+A party with a material interest in a conformance outcome MUST disclose that interest and MUST NOT exercise undisclosed or inappropriate control over the requirements, evidence evaluation, or certification decision applicable to that outcome.
+
+### 6.1 Evidence-Based Certification
+
+**Certification MUST be supported by independently examinable evidence and MUST meet the requirements of a valid proof under the applicable Proof Protocol specification. Questionnaires, presentations, badges, gateways, self-attestations, declarations, administrative approvals, or similar mechanisms MUST NOT, by themselves, constitute proof of conformance or a sufficient basis for certification.**
+
+A certification determination MUST identify the applicable specification, the evidence supporting the determination, the scope of the claim, and the proof record upon which the determination relies.
+
+### 6.2 Gateways Are Not Proof
+
+A **gateway** is an administrative, procedural, commercial, membership, payment, or access-control step used to authorize participation or progression.
+
+**Passing a gateway does not establish technical efficacy, proof validity, or conformance unless the underlying determination is supported by the evidence required by the applicable specification and meets the requirements of a valid proof.**
+
+A gateway MAY control access to a program, process, registry, evaluation, or certification workflow. It MUST NOT be represented as technical proof merely because the participant successfully passed the gateway.
+
+### 6.3 No Self-Certification by Renaming
+
+A questionnaire, declaration, presentation, document review, badge, gateway, membership decision, administrative approval, or vendor-controlled assessment does not become independent proof merely by being labeled verification, validation, assurance, certification, accreditation, or conformance.
+
+Where independent certification is claimed, the evidence and proof determination MUST be independently examinable and the relevant conflicts, roles, authority, and scope MUST be disclosed.
+
+### 6.4 Governance of Certification
+
+Organizations responsible for standards governance SHOULD maintain structural and procedural safeguards between standards development and certification sufficient to protect independent judgment and prevent standards capture.
+
+Certification criteria, evidence requirements, material decision procedures, conflicts, recusals, and challenge mechanisms SHOULD be documented and auditable.
+
+## 7. Ethical Business Practices
 
 Technically valid evidence does not excuse unethical commercial conduct.
 
@@ -115,7 +147,7 @@ Allegations MUST be assessed through documented, impartial procedures that prote
 
 ---
 
-## 7. Trusted Capital Standard
+## 8. Trusted Capital Standard
 
 Capital is not proof of credibility. Financial power is not proof of integrity.
 
@@ -162,7 +194,7 @@ Investors, family offices, and other financial interests participating in recogn
 
 ---
 
-## 8. Core Duties
+## 9. Core Duties
 
 As a condition of recognized participation or certification, the applicable participant MUST formally accept the version of this Code required by the governing participation terms.
 
@@ -182,7 +214,7 @@ As a condition of recognized participation or certification, the applicable part
 
 ---
 
-## 9. Adoption, Verification, and Enforcement
+## 10. Adoption, Verification, and Enforcement
 
 An accountable governing body applying this Code MUST identify:
 
@@ -205,7 +237,7 @@ Certification under this Code is evidence of assessed requirements within a defi
 
 ---
 
-## 10. No Purchased Exemption
+## 11. No Purchased Exemption
 
 No individual or institution may purchase, inherit, conceal, or self-declare immunity from ethical obligations that it has explicitly accepted as a condition of recognized Proof Economy participation.
 
@@ -215,7 +247,7 @@ Funding, market position, institutional prestige, technical capability, possessi
 
 ---
 
-## 11. Continuous Assurance
+## 12. Continuous Assurance
 
 Trust is not a permanent credential.
 
@@ -223,7 +255,7 @@ Changes in leadership, ownership, funding, incentives, material relationships, o
 
 ---
 
-## 12. Relationship to Proof Protocol
+## 13. Relationship to Proof Protocol
 
 This Code is a **foundational governance document**, not a PP-SPEC technical specification.
 
@@ -238,7 +270,7 @@ The two layers are intentionally distinct:
 
 ---
 
-## 13. Final Questions
+## 14. Final Questions
 
 **Proof of what? Who produced the proof? Who verified it? Can the producer and verifier be trusted for the stated purpose? Are they authentic, independent, competent, and accountable? Can their methods and conclusions be examined and challenged?**
 
