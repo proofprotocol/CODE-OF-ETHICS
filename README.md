@@ -4,7 +4,7 @@
 
 **Status:** Foundational Governance Document  
 **Version:** 1.0  
-**Issued by:** HACKERverse® / Nebulonium, Inc.  
+**Issued by:** Craig Thomas Ellrod  
 **Author:** Craig Ellrod  
 **Governance:** Proof Economy Standards Alliance (PESA)
 
@@ -396,6 +396,6 @@ Before there can be trusted proof, there must be a Trusted Baseline.
 
 **Document:** Proof Economy Code of Ethics  
 **Author:** Craig Ellrod  
-**Organization:** HACKERverse® / Nebulonium, Inc.  
+**Organization:** Craig Thomas Ellrod  
 **Framework:** Proof Economy™ / Proof Protocol™  
 **Version:** 1.0  

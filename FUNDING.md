@@ -1,7 +1,7 @@
 # Funding Disclosure
 
 Work: Proof Economy Code of Ethics
-Licensor: Nebulonium, Inc., dba HACKERverse (Proof Protocol)
+Licensor: Craig Thomas Ellrod (Proof Protocol)
 
 ## Declaration
 
